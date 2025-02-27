@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-pickle5
-joblib
+pickle5==0.0.12
+joblib==1.4.2
 matplotlib
 seaborn
 pillow
